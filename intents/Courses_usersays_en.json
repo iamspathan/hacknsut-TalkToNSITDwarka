@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cf769c77-ac47-4a87-9a0c-b1efa761f367",
+    "data": [
+      {
+        "text": "Academics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c20e73a2-792a-4c75-b3d7-0b3f24f2115d",
+    "data": [
+      {
+        "text": "Which Courses do you have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5591ee14-6443-4c07-8188-0515528b1361",
+    "data": [
+      {
+        "text": "Courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f23aff0-e752-44bc-9f0f-d323f1a2d4fe",
+    "data": [
+      {
+        "text": "What are the courses available in NSIT.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "id": "61e1a76b-7fbd-4c90-acd8-a73901b79aef",
+  "name": "Doctoral",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Doctorate Programmes",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "A",
+                "synonyms": []
+              },
+              "title": "Ph.D in Electronics and Communication Engineering"
+            },
+            {
+              "optionInfo": {
+                "key": "B",
+                "synonyms": []
+              },
+              "title": "Ph.D in Computer Engineering"
+            },
+            {
+              "optionInfo": {
+                "key": "C",
+                "synonyms": []
+              },
+              "title": "Ph.D in Instrumentation and Control Engineering"
+            },
+            {
+              "optionInfo": {
+                "key": "D",
+                "synonyms": []
+              },
+              "title": "Ph.D in Information Technology"
+            },
+            {
+              "optionInfo": {
+                "key": "E",
+                "synonyms": []
+              },
+              "title": "Ph.D in Bio-Technology"
+            },
+            {
+              "optionInfo": {
+                "key": "F",
+                "synonyms": []
+              },
+              "title": "Ph.D in Management"
+            },
+            {
+              "optionInfo": {
+                "key": "G",
+                "synonyms": []
+              },
+              "title": "Ph.D in Manufacturing and Automation Engineering"
+            },
+            {
+              "optionInfo": {
+                "key": "H",
+                "synonyms": []
+              },
+              "title": "Ph.D in Humanities and Social Responces"
+            },
+            {
+              "optionInfo": {
+                "key": "I",
+                "synonyms": []
+              },
+              "title": "Ph.D in Mathematics"
+            },
+            {
+              "optionInfo": {
+                "key": "J",
+                "synonyms": []
+              },
+              "title": "Ph.D in Chemistry"
+            },
+            {
+              "optionInfo": {
+                "key": "K",
+                "synonyms": []
+              },
+              "title": "Ph.D in Physics"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The University offers Doctorate of Philosophy degree Programmes in following fields."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

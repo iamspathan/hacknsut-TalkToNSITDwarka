@@ -1,0 +1,47 @@
+{
+  "id": "6a93a2e6-2e11-4f34-b6d2-6daf3489c1bd",
+  "name": "Social",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Netaji Subhas Institute of Technology",
+          "image": {
+            "url": "https://drive.google.com/uc?export\u003dview\u0026id\u003d182zRenKUPfO3j78rj3rGyOn7QQXdAr0l",
+            "accessibilityText": "nsitdelhilinkedin"
+          },
+          "buttons": [
+            {
+              "title": "Connect Here",
+              "openUrlAction": {
+                "url": "https://www.linkedin.com/school/netaji-subhas-institute-of-technology/about/"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here you can connect with us."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

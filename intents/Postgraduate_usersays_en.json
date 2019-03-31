@@ -1,0 +1,35 @@
+[
+  {
+    "id": "d4c9e1c7-e26e-4c15-afd2-8d1d6578adcf",
+    "data": [
+      {
+        "text": "Postgraduate Programmes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb3aae54-a4d9-488d-abd2-c41963b0d2da",
+    "data": [
+      {
+        "text": "What are the postgraduate programmes you provide.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4fe0eb7-204f-4fb3-9ead-98b972a138da",
+    "data": [
+      {
+        "text": "Postgradute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

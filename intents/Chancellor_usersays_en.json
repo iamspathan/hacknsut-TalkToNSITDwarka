@@ -1,0 +1,44 @@
+[
+  {
+    "id": "d36106a2-0795-432e-8810-1d06e06f303a",
+    "data": [
+      {
+        "text": "NSIT Chancellor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dddb1cb4-d92c-4fa1-9492-7d0249f265b5",
+    "data": [
+      {
+        "text": "Chancellor of NSIT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c997a6b-58da-4a70-a956-ca7d646b39b4",
+    "data": [
+      {
+        "text": "Who is ",
+        "userDefined": false
+      },
+      {
+        "text": "Chancellor",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " of University",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

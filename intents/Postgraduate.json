@@ -1,0 +1,86 @@
+{
+  "id": "63c46160-5f4c-4a84-a047-627a05376a4f",
+  "name": "Postgraduate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Post-Graduate Programmes",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "A",
+                "synonyms": []
+              },
+              "title": "M.Tech in Signal Processing"
+            },
+            {
+              "optionInfo": {
+                "key": "B",
+                "synonyms": []
+              },
+              "title": "M.Tech in Embedded System \u0026 VLSI"
+            },
+            {
+              "optionInfo": {
+                "key": "C",
+                "synonyms": []
+              },
+              "title": "M.Tech in Information System"
+            },
+            {
+              "optionInfo": {
+                "key": "D",
+                "synonyms": []
+              },
+              "title": "M.Tech in Process Control"
+            },
+            {
+              "optionInfo": {
+                "key": "E",
+                "synonyms": []
+              },
+              "title": "M.Tech in Production Engineering"
+            },
+            {
+              "optionInfo": {
+                "key": "F",
+                "synonyms": []
+              },
+              "title": "M.Tech in Engineering Management"
+            },
+            {
+              "optionInfo": {
+                "key": "G",
+                "synonyms": []
+              },
+              "title": "M.Tech in Biochemical Engineering"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "At the Post-Graduate level NSIT has the following programmes."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

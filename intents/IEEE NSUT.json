@@ -1,0 +1,48 @@
+{
+  "id": "f62ca7e9-6705-42e1-b82a-19c0dcfb4d54",
+  "name": "IEEE NSUT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "IEEE-NSIT",
+          "subtitle": "WE\u0027RE NOT JUST ABOUT USING TECHNOLOGY, WE LIVE TECHNOLOGY.",
+          "image": {
+            "url": "https://drive.google.com/uc?export\u003dview\u0026id\u003d1q9o9B8jEZ4bJB5_S1uTDBk8FuR2hp-bJ",
+            "accessibilityText": "ieeensut"
+          },
+          "buttons": [
+            {
+              "title": "Get More Details",
+              "openUrlAction": {
+                "url": "https://www.ieeensut.com"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "IEEE-NSUT Student Branch works to create an atmosphere of technical excellence for the students. It aims at helping students in building an attitude towards applying engineering in daily life by learning ways to use the latest technology on offer."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "096268cc-3cfe-4f57-aaa8-2d11ea472fc8",
+    "data": [
+      {
+        "text": "Social NSIT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2107f61b-9b0a-45b2-968d-03ffd13827df",
+    "data": [
+      {
+        "text": "NSIT Contact No",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2cd6f85b-bf80-4520-b8ad-971df81e7362",
+    "data": [
+      {
+        "text": "Contact to NSIT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

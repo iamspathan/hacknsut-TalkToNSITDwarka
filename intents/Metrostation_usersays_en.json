@@ -1,0 +1,24 @@
+[
+  {
+    "id": "dc672ba0-644e-41bc-9a2d-ed9b65b5b2d5",
+    "data": [
+      {
+        "text": "Nearby Metro Station",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "207189d1-e99d-4084-a53b-4fb04b096873",
+    "data": [
+      {
+        "text": "What is the Nearby metro station to reach NSIT.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

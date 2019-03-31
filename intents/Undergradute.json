@@ -1,0 +1,86 @@
+{
+  "id": "e3853634-7e06-43fa-ad03-d5f6e268c9fa",
+  "name": "Undergradute",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Undergradute Programmes",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "A",
+                "synonyms": []
+              },
+              "title": "B.E in Electronics and Communication Engineering"
+            },
+            {
+              "optionInfo": {
+                "key": "B",
+                "synonyms": []
+              },
+              "title": "B.E in Computer Engineering"
+            },
+            {
+              "optionInfo": {
+                "key": "C",
+                "synonyms": []
+              },
+              "title": "B.E in Instrumentation and Control Engineering"
+            },
+            {
+              "optionInfo": {
+                "key": "D",
+                "synonyms": []
+              },
+              "title": "B.E in Manufacturing Process and Automation Engineering"
+            },
+            {
+              "optionInfo": {
+                "key": "E",
+                "synonyms": []
+              },
+              "title": "B.E in Mechanical Engineering"
+            },
+            {
+              "optionInfo": {
+                "key": "F",
+                "synonyms": []
+              },
+              "title": "B.E in Information Technology"
+            },
+            {
+              "optionInfo": {
+                "key": "G",
+                "synonyms": []
+              },
+              "title": "B.E in Bio-Technology"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "NSIT offer following branches in Engineering Programmes at the Undergradute Level."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

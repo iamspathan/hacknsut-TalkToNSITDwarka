@@ -1,0 +1,50 @@
+{
+  "id": "3f474ae6-ecc5-4099-baac-560d85f1506b",
+  "name": "Chancellor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Mr. Anil Baijal",
+          "subtitle": "Chancellor of NSIT",
+          "formattedText": "Anil Baijal is a retired Indian Administrative Service officer and is the 21st Lieutenant Governor of Delhi",
+          "image": {
+            "url": "https://drive.google.com/uc?export\u003dview\u0026id\u003d1keqGSInp1cuyH9_XPP7RClhPQP5fjcxh",
+            "accessibilityText": "nsitchancellor"
+          },
+          "buttons": [
+            {
+              "title": "Know More",
+              "openUrlAction": {
+                "url": "https://en.wikipedia.org/wiki/Anil_Baijal"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Mr. Anil Baijal is the Chancellor of Netaji Subhash University of Technology."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

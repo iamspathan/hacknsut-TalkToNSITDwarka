@@ -1,0 +1,62 @@
+{
+  "id": "127d6a4e-33ae-43bd-b29f-2b6da3cb1da5",
+  "name": "Central Library",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Central Library of NSIT",
+          "subtitle": "Library remains open from 9.30 a.m. to 8.30 p.m. from Monday to Friday and from 10.00 a.m. to 5.30 p.m. on Saturdays( except on gazetted holidays).",
+          "image": {
+            "url": "https://drive.google.com/uc?export\u003dview\u0026id\u003d1B2CNrY_PwyH1We5TLGxXbVSpEIMNQWPN",
+            "accessibilityText": "nsitlibrary"
+          },
+          "buttons": [
+            {
+              "title": "More Details",
+              "openUrlAction": {
+                "url": "http://www.nsit.ac.in/library/",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "IEEE-NSUT"
+            },
+            {
+              "title": "Doctoral Programmes"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "NSUT Central Library is well equipped with 20 National English and Hindi newspapers accompanied by 60 magazines that are procured on a regular basis"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

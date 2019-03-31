@@ -1,0 +1,41 @@
+[
+  {
+    "id": "7f34f3a3-7ca3-46e9-a72f-5f3610cc7cf7",
+    "data": [
+      {
+        "text": "Direction to ",
+        "userDefined": false
+      },
+      {
+        "text": "University",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ff2bcfd-3307-45cc-9cfb-f1a8a24256da",
+    "data": [
+      {
+        "text": "the University Location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d0fcc8d-7926-4086-8861-c47460902f45",
+    "data": [
+      {
+        "text": "Where is the location of University",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

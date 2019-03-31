@@ -1,0 +1,61 @@
+{
+  "id": "e5132d72-9617-4e55-b3cd-01ae66d94dd6",
+  "name": "Alumni",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Alumnie of NSIT",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "A",
+                "synonyms": []
+              },
+              "title": "Mr. Rohit Chandra",
+              "description": "Entrepreneur and Inventor",
+              "image": {
+                "url": "https://drive.google.com/uc?export\u003dview\u0026id\u003d1S2wwyux5n5VswCJydX_E8rDqMyu6TaD4",
+                "accessibilityText": "rohitchandra"
+              }
+            },
+            {
+              "optionInfo": {
+                "key": "B",
+                "synonyms": []
+              },
+              "title": "Mr. Varun Agrawal",
+              "description": "Founder of AMCAT",
+              "image": {
+                "url": "https://drive.google.com/uc?export\u003dview\u0026id\u003d1EbB5GeQ6jQL8FZH2Ei07Uou7iz6B6YZ4",
+                "accessibilityText": "varunagrawal"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Our Alumnie serve as mentors and advisors and encourage employer to hire NSIT Graduates. Following are our some of the most renowned alumnus."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

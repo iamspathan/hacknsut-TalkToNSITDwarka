@@ -1,0 +1,35 @@
+[
+  {
+    "id": "b7d517d6-1592-42bf-bdf5-feb9b08301d8",
+    "data": [
+      {
+        "text": "Doctoral programmes offered by NSIT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62a90d7b-fa21-4d86-92bb-07e183bd7f13",
+    "data": [
+      {
+        "text": "Doctoral Programmes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3aaff717-d859-45a2-b773-36433a3c3db7",
+    "data": [
+      {
+        "text": "Ph.D",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

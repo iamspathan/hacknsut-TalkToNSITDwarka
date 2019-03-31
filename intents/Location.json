@@ -1,0 +1,56 @@
+{
+  "id": "bef35306-3848-43cb-913c-cd2b9b82a8fa",
+  "name": "Location",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b6ac6ad5-2ff9-4aa1-ad1f-b7c1110a2d3b",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Netaji Subhas University Of Technology",
+          "image": {
+            "url": "https://drive.google.com/uc?export\u003dview\u0026id\u003d1qC3yqgmRu0yTLgkJZjb-XEhJZv-ezCjQ",
+            "accessibilityText": "nsitdwarka"
+          },
+          "buttons": [
+            {
+              "title": "Get the Direction",
+              "openUrlAction": {
+                "url": "https://www.google.co.in/maps/place/Netaji+Subhas+University+Of+Technology/@28.6101625,77.0369628,18z/data\u003d!4m19!1m13!4m12!1m4!2m2!1d77.0382485!2d28.6097031!4e1!1m6!1m2!1s0x390d05dd375e5a13:0x108adaa3abe4bd07!2sNetaji+Subhas+University+Of+Technology,+Dwarka+Sector-3,+Dwarka,+Delhi,+110078!2m2!1d77.0378947!2d28.6102353!3m4!1s0x390d05dd375e5a13:0x108adaa3abe4bd07!8m2!3d28.6102353!4d77.0378947"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We\u0027re located in Dwarka Sector-3, Dwarka, Delhi,"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

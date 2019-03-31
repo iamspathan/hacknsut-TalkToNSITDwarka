@@ -1,0 +1,35 @@
+[
+  {
+    "id": "493eeb0a-1ece-468e-9496-14ee07567fed",
+    "data": [
+      {
+        "text": "What technical club NSIT Have.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "911709e7-2f38-4bc3-b2ff-e56a0a108b6c",
+    "data": [
+      {
+        "text": "Technical club of NSIT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5179153a-03e0-4e74-97b1-71aed808997c",
+    "data": [
+      {
+        "text": "IEEE-NSIT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
